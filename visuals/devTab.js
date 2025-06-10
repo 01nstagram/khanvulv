@@ -13,7 +13,7 @@ plppdo.on('domChanged', () => {
     const section = document.createElement('section');
     section.id = 'khanwareTab';
     section.className = '_1ozlbq6';
-    section.innerHTML = '<h2 class="_18undph9">Khanware</h2>';
+    section.innerHTML = '<h2 class="_18undph9">Khanvulv</h2>';
 
     const ul = document.createElement('ul');
     const devTab = createTab('Developer', '#');
@@ -25,7 +25,7 @@ plppdo.on('domChanged', () => {
             window.khanwareWin.document.write(`
                 <html>
                 <head>
-                    <title>Khanware Developer</title>
+                    <title>Khanvulv Developer</title>
                     <style>
                         body { 
                             font-family: Arial, sans-serif; 
