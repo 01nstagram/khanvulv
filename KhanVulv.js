@@ -39,7 +39,7 @@ window.features = {
 window.featureConfigs = {
     autoAnswerDelay: 3,
     customUsername: "1nsta",
-    customPfp: "https://imgur.com/a/pFbSOn4"
+    customPfp: "https://cdn.discordapp.com/attachments/1376610907739918397/1381878055957696614/Novo_projeto_1_444C6AD.png?ex=68491dba&is=6847cc3a&hm=1621ff7ec172478dc3039a0b72cfe7ffd60b10fe390001fa9357ad42d30e4708&"
 };
 
 /* Security */
