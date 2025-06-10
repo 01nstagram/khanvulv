@@ -1,5 +1,5 @@
 const ver = "V3.1.1";
-let isDev = true;
+let isDev = false;
 
 const repoPath = `https://raw.githubusercontent.com/01nstagram/KhanVulv/refs/heads/${isDev ? "dev/" : "main/"}`;
 
