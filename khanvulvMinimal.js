@@ -32,9 +32,9 @@ function setupMain(){
     /* QuestionSpoof */
     (function () {
         const phrases = [ 
-            "?? Get good, get [Khanvulv](https://github.com/01nstagram/khanvulv/)!",
-            "?? Made by [@1nsta](https://secremento.vercel.app).",
-            "?? Star the project on [GitHub](https://github.com/01nstagram/khanvulv/)!",
+            "🧟‍♂️ Get good, get [Khanvulv](https://github.com/01nstagram/khanvulv/)!",
+            "🧟‍♂️ Made by [@1nsta](https://secremento.vercel.app).",
+            "🧟‍♂️ Star the project on [GitHub](https://github.com/01nstagram/khanvulv/)!",
         ];
         
         const originalFetch = window.fetch;
