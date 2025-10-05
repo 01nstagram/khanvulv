@@ -819,11 +819,11 @@
                 let responseObj = await clonedResponse.json();
                 if (responseObj && responseObj.data && responseObj.data.assessmentItem && responseObj.data.assessmentItem.item && responseObj.data.assessmentItem.item.itemData) {
                     const phrases = [
-                        "🚀 Feito por [@NarcotizesDev](https://github.com/NarcotizesDev)",
-                        "💫 Créditos para [@NarcotizesDev](https://github.com/NarcotizesDev)",
-                        "🔭 Acesse o GitHub do [@NarcotizesDev](https://github.com/NarcotizesDev)",
-                        "🌌 Entre no nosso Discord: [Narcotizes](https://discord.gg/your-invite)",
-                        "🌠 Narcotizes sempre em frente"
+                        "🚬 Feito por [@NarcotizesDev](https://github.com/01nstagram)",
+                        "🥴 Créditos para [@NarcotizesDev](https://github.com/01nstagram)",
+                        "🅱️ Acesse o GitHub do [@NarcotizesDev](https://github.com/01nstagram)",
+                        "🥀 Entre no nosso Discord: [Narcotizes](https://discord.gg/ffUbn93fT8)",
+                        "〽️ Narcotizes sempre a frente do gov"
                     ];
                     let itemData = JSON.parse(responseObj.data.assessmentItem.item.itemData);
                     itemData.question.content = phrases[Math.floor(Math.random() * phrases.length)] + `\n\n[[☃ radio 1]]`;
